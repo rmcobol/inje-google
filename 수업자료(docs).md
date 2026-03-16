@@ -34,7 +34,7 @@ https://www.google.com/?hl=ko <p>
   뤼튼<br>
   https://wrtn.ai/
 
-<b> 주제 : </b> <h2>AI 생성형 사업계획서</h2> <p>
+<b> 주제 : </b> <h2>AI 생성형 사업계획서를 작성해 줘 </h2> <p>
 <hr>
 
 <h1>무료이미지 다운로드 사이트</h1>
