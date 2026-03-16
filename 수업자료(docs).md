@@ -1,6 +1,6 @@
 
 <h1><수업전 설문조사></h1>
-<h2 ><a href="https://naver.me/56Xo1aob" style="color:red;">설문조사 클릭해 주세요.</a></h2>
+<h2 ><a href="https://naver.me/GGG0JfDw" style="color:red;">설문조사 클릭해 주세요.</a></h2>
 
 <hr>
  <h1>한컴 타자 연습</h1>
