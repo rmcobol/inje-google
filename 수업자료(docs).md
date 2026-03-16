@@ -24,6 +24,10 @@ https://www.google.com/?hl=ko <p>
   https://chatgpt.com/<br>
   Gemini 사이트 <br>
   https://gemini.google.com/app?hl=ko<br>
+ <hr>
+ fact(사실) 배경 답변 
+ 근거는 반드시 표로 작성해야 하고, 모르면 '인식불로가'로 답해야 하며, 비교하는 내용은 표로 작성해야 하고, 개조식 답변 및 학술적 이론 제시를 해야 한다.
+  <hr>
   뤼튼<br>
   https://wrtn.ai/
 
