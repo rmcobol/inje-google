@@ -2,6 +2,8 @@
 <h1>스마트 폰에서 구글 계정 동기화 하는 방법</h1>
 <a href="https://www.google.com/search?q=2026%EB%85%84+%EC%8A%A4%EB%A7%88%ED%8A%B8+%ED%8F%B0%EC%97%90%EC%84%9C+%EA%B5%AC%EA%B8%80+%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0&sca_esv=cf7b893ecca69e9d&sxsrf=ANbL-n5kOCcppyqxlkW-xWOZaTuwOmy0Og%3A1773819767968&ei=d1e6aYPrOrSXvr0P1oSF4AU&biw=1536&bih=703&ved=0ahUKEwjDgqnJ-aiTAxW0i68BHVZCAVwQ4dUDCBE&uact=5&oq=2026%EB%85%84+%EC%8A%A4%EB%A7%88%ED%8A%B8+%ED%8F%B0%EC%97%90%EC%84%9C+%EA%B5%AC%EA%B8%80+%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0&gs_lp=Egxnd3Mtd2l6LXNlcnAiMjIwMjbrhYQg7Iqk66eI7Yq4IO2PsOyXkOyEnCDqtazquIAg64-Z6riw7ZmU7ZWY6riwMggQABiJBRiiBDIFEAAY7wUyBRAAGO8FMggQABiABBiiBEiZKlC4B1j5J3ABeAGQAQCYAfUBoAHfCaoBBTAuNy4xuAEDyAEA-AEBmAIHoALzB8ICChAAGEcY1gQYsAPCAggQIRigARjDBMICChAhGAoYoAEYwwSYAwCIBgGQBgqSBwUxLjUuMaAH9huyBwUwLjUuMbgH7QfCBwUwLjUuMsgHE4AIAQ&sclient=gws-wiz-serp">스마트 폰에서 구글 계정 동기화하기
 <hr>
+<h1>구글시트에서 제미나이 사용할려면</h1>
+<h2><a href="https://workspace.google.com/labs-sign-up">구글 랩스에 가입</a></h2>
 
  
 
